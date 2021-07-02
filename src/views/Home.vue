@@ -46,7 +46,7 @@
           </svg>
           <h3>免费使用</h3>
           <p>在
-            <a href="https://github.com/waynefu2020/sky-ui-1">Github</a>
+            <a href="https://github.com/waynefu2020/sky-ui-2">Github</a>
             上开源
           </p>
         </li>
