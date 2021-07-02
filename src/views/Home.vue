@@ -7,7 +7,7 @@
         <h2>一款轻量级的 Vue 3 UI 组件库</h2>
         <p class="actions">
           <router-link to="/doc" class="start">开始使用</router-link>
-          <a href="https://github.com/waynefu2020/sky-ui-2">
+          <a href="https://github.com/waynefu2020/sky-ui-dev">
             <svg class="icon">
               <use xlink:href="#icon-github"></use>
             </svg>
@@ -46,7 +46,7 @@
           </svg>
           <h3>免费使用</h3>
           <p>在
-            <a href="https://github.com/waynefu2020/sky-ui-2">Github</a>
+            <a href="https://github.com/waynefu2020/sky-ui-dev">Github</a>
             上开源
           </p>
         </li>
