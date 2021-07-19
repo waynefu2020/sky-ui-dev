@@ -5,6 +5,6 @@ git init &&
 git add . &&
 git commit -m "update" &&
 git branch -M main &&
-git remote add origin git@github.com:waynefu2020/sky-ui-web.git &&
+git remote add origin git@github.com:waynefu2020/sky-ui-dev.git &&
 git push -f -u origin main &&
 cd ..
